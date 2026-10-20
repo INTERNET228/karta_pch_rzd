@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "status": "historical_documented_not_current",
+  "updated": "2026-10-20",
+  "districts": [
+    {
+      "id": "oktyabrskaya-pch-6-rzhev",
+      "title": "Ржевская дистанция пути (ПЧ-6)",
+      "railway": "Октябрьская железная дорога",
+      "document_type": "Учебная квалификационная работа; не официальный действующий паспорт ПЧ",
+      "document_period": "в источнике дата публикации около 2022 года; актуальность не подтверждена",
+      "source": "https://prepod24.ru/readyworks/320702/",
+      "segments": [
+        {
+          "direction": "Москва — Рига",
+          "start_km": 156,
+          "end_km": 421,
+          "unit": "км",
+          "note": "В таблице той же работы встречается 422 км; требуется сверка границы по паспорту дистанции."
+        },
+        {
+          "direction": "Лихославль — Вязьма",
+          "start_km": 5,
+          "end_km": 165,
+          "unit": "км",
+          "note": "В таблице той же работы встречается 166 км; требуется сверка."
+        }
+      ],
+      "other_reported_tracks": [
+        "Земцы — Жарковский",
+        "Торжок — Соблаго",
+        "ветви Ржевского узла"
+      ],
+      "geometry_status": "not_georeferenced",
+      "current_validity": "unverified"
+    }
+  ]
+}
